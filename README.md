@@ -14,7 +14,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ``
 Once Rust is installed you may run: 
 ``
-cargo run -- Welcome src/README.md
+cargo run -- Welcome README.md
 ``
 The line below this will print
 # Welcome to the RUST CLI Tool V1
