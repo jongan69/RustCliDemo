@@ -19,5 +19,5 @@ cargo run -- Welcome README.md
 The line below this will print
 # Welcome to the RUST CLI Tool V1
 
-This takes a file passed in with argument(s) and returns data based on the inputs arguments, in this case being 'Welcome' and 'src/Readme.md'
+This takes a file passed in with argument(s) and returns data based on the inputs arguments, in this case being 'Welcome' and 'Readme.md'
 
